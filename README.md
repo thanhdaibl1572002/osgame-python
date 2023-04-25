@@ -29,14 +29,14 @@ Players can use control keys to move and shoot bullets. The default control keys
 - Shoot bullets: Automatic.
 
 ## Các tính năng / Features
-Các tính năng của game Space Shooter bao gồm:
+Các tính năng của OS Game bao gồm:
 - Đồ họa đơn giản nhưng hấp dẫn.
 - Âm thanh sống động và nhạc nền thú vị.
 - Các đối thủ được tạo ra ngẫu nhiên để tăng tính đa dạng.
 - Các vật phẩm ngẫu nhiên xuất hiện giúp người chơi có thể nâng cấp tàu vũ trụ và tăng sức mạnh.
 - Điểm số được tính toán và hiển thị trên màn hình để người chơi có thể theo dõi tiến trình của mình.
 
-The features of Space Shooter game include:
+The features of OS Game include:
 - Simple yet attractive graphics.
 - Vibrant sound effects and exciting background music.
 - Randomly generated enemies to increase diversity.
