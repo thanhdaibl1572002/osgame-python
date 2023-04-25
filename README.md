@@ -5,11 +5,41 @@ OS Game là một game bắn súng không gian được viết bằng Python và
 OS Game is a space shooter game written in Python and uses Pygame library to display graphics. In the game, players will control a spaceship and defeat enemies on the way to win. This is a project to learn about the open-source software development process.
 
 ## Cài đặt / Install
-Để chơi game Space Shooter, bạn cần cài đặt Python và thư viện Pygame trên máy tính của mình. Bạn có thể cài đặt Python bằng cách truy cập trang web chính thức của Python và tải xuống phiên bản mới nhất. Sau đó, bạn có thể sử dụng pip để cài đặt Pygame bằng cách chạy lệnh sau: 
-- pip install pygame.
+Để chơi OS Game, bạn cần cài đặt Python và thư viện Pygame trên máy tính của mình. Bạn có thể cài đặt Python bằng cách truy cập trang web chính thức của Python và tải xuống phiên bản mới nhất.
 
-To play Space Shooter game, you need to install Python and Pygame library on your computer. You can install Python by accessing the official Python website and downloading the latest version. Then, you can use pip to install Pygame by running the following command: 
-- pip install pygame.
+### 1. Cài đặt Python:
+- sudo apt-get install python3
+### 2. Cài đặt Pip:
+- sudo apt-get install python3-pip
+### 3. Cài đặt Pygame:
+- pip install pygame
+### 4. Cài đặt gif_pygame:
+- pip install gif_pygame
+### 5. Tải xuống OS Game:
+- https://thanhdaibl1572002.github.io/osgame/
+### 6. Giải nén OS Game:
+- cd Downloads
+- tar -xzf osgame-python.tar.gz
+### 7. Khởi chạy OS Game:
+- python3 main.py
+
+To play OS Game, you need to install Python and Pygame library on your computer. You can install Python by accessing the official Python website and downloading the latest version.
+
+### 1. Install Python:
+- sudo apt-get install python3
+### 2. Install Pip:
+- sudo apt-get install python3-pip
+### 3. Install Pygame:
+- pip install pygame
+### 4. Install gif_pygame:
+- pip install gif_pygame
+### 5. Download OS Game:
+- https://thanhdaibl1572002.github.io/osgame/
+### 6. Extract OS Game:
+- cd Downloads
+- tar -xzf osgame-python.tar.gz
+### 7. Launch OS Game:
+- python3 main.py
 
 ## Cách chơi / How to play
 Khi bắt đầu chơi, người chơi sẽ điều khiển một tàu vũ trụ và di chuyển trên màn hình để tránh các đối thủ và tấn công chúng bằng cách bắn đạn. Người chơi có thể tiêu diệt các đối thủ để giành điểm số và tiếp tục chơi. Tuy nhiên, nếu tàu vũ trụ bị va chạm đạn của đối thủ, người chơi sẽ mất một lượng máu và game kết thúc khi mất hết số máu.
@@ -29,14 +59,14 @@ Players can use control keys to move and shoot bullets. The default control keys
 - Shoot bullets: Automatic.
 
 ## Các tính năng / Features
-Các tính năng của game Space Shooter bao gồm:
+Các tính năng của game OS Game bao gồm:
 - Đồ họa đơn giản nhưng hấp dẫn.
 - Âm thanh sống động và nhạc nền thú vị.
 - Các đối thủ được tạo ra ngẫu nhiên để tăng tính đa dạng.
 - Các vật phẩm ngẫu nhiên xuất hiện giúp người chơi có thể nâng cấp tàu vũ trụ và tăng sức mạnh.
 - Điểm số được tính toán và hiển thị trên màn hình để người chơi có thể theo dõi tiến trình của mình.
 
-The features of Space Shooter game include:
+The features of OS Game game include:
 - Simple yet attractive graphics.
 - Vibrant sound effects and exciting background music.
 - Randomly generated enemies to increase diversity.
@@ -53,6 +83,6 @@ The features of Space Shooter game include:
 - Github: https://github.com/thanhdaibl1572002
 
 ## Giấy phép / License
-Dự án này được cấp phép theo Giấy phép MIT - xem tệp LICENSE để biết chi tiết.
+- Dự án này được cấp phép theo Giấy phép MIT - xem tệp LICENSE để biết chi tiết.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the LICENSE file for details.
